@@ -19,7 +19,7 @@
   "require": {
     "php": "^5.6 || ^7.0",
     "contao/core-bundle": "^4.4.8",
-    "menatwork/ctocommunication": "^3.0.2"
+    "menatwork/ctocommunication": "^3.0.2 || ^4.0.0"
   },
   "autoload": {
     "psr-4": {
