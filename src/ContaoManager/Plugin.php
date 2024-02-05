@@ -25,7 +25,6 @@ class Plugin implements BundlePluginInterface
                 ->setLoadAfter(
                     [
                         ContaoCoreBundle::class,
-                        ContaoManagerBundle::class,
                         CtoCommunicationBundle::class
                     ]
                 )
